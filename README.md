@@ -21,3 +21,7 @@ Everything you need to build a solid NestJS application that serves millions of 
 - Postgres
 - Prisma
 - Logging
+
+### S1 task management app
+https://github.com/arielweinberger/nestjs-course-task-management/tree/s1-task-management-app
+
